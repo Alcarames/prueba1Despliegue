@@ -1,2 +1,2 @@
 
-<body>Hola caracola</body>
+<body>Hola caracola, ahora con versión 1.0</body>
